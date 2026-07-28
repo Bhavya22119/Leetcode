@@ -28,4 +28,4 @@ var smallestPalindrome = function(s) {
 
     return left + mid + right;
 
-};
+}
